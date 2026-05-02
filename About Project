@@ -1,4 +1,4 @@
-Heart Disease Detection App      || Link: https://heart-disease-detection-qqv9xvee4poncgwyux4qt5.streamlit.app ||
+Heart Disease Detection App      || https://heart-disease-detection-qqv9xvee4poncgwyux4qt5.streamlit.app ||
 
 Description:
 This is a free online Heart Disease Prediction tool built with Streamlit and Machine Learning. The app uses a trained ML model to predict the likelihood of heart disease based on key health parameters.
