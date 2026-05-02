@@ -1,0 +1,50 @@
+Heart Disease Detection App      || Link: https://heart-disease-detection-qqv9xvee4poncgwyux4qt5.streamlit.app ||
+
+Description:
+This is a free online Heart Disease Prediction tool built with Streamlit and Machine Learning. The app uses a trained ML model to predict the likelihood of heart disease based on key health parameters.
+
+Key Features:
+User-friendly interface: Enter health parameters and get instant results
+Input Parameters:
+Parameter
+Description
+Age
+Patient's age
+Sex
+Male/Female
+Chest Pain Type:
+Type of chest pain (4 categories)
+Resting BP
+Resting blood pressure
+
+Cholesterol:
+Serum cholesterol level
+Fasting Blood Sugar
+120 mg/dl (1 = True)
+Resting ECG
+Resting electrocardiographic results
+Max Heart Rate
+Maximum heart rate achieved
+Exercise Angina
+Exercise-induced angina
+Old Peak
+ST depression induced by exercise
+ST Slope
+Slope of peak exercise ST segment
+Additional clinical features
+
+
+Instant Result:
+✅ Low Risk - Low probability of heart disease
+⚠️ Medium Risk - Moderate risk
+❌ High Risk - High probability
+
+Use Cases:
+Patients: Self health assessment
+Doctors: Quick preliminary screening
+Students: ML healthcare project demo
+Researchers: Model testing
+Technical Stack:
+Frontend: Streamlit
+Backend: Python ML model (likely Random Forest/XGBoost)
+Dataset: UCI Heart Disease dataset
