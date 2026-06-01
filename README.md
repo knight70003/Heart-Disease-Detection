@@ -29,9 +29,9 @@ The inference engine is powered by a **Stacking Ensemble Classifier** (Decision 
 
 | Metric | Accuracy Score |
 | --- | --- |
-| **Training Accuracy** | **88.0%** |
-| **Testing Accuracy** | **87.0%** |
-| **Generalization Gap** | 1.0% |
+| **Training Accuracy** | **88.58%** |
+| **Testing Accuracy** | **87.87%** |
+| **Generalization Gap** | 0.71% |
 
 ---
 
