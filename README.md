@@ -46,14 +46,4 @@ The inference engine is powered by a **Stacking Ensemble Classifier** (Decision 
 
 > "I developed an **Enterprise-Grade Coronary Telemetry Platform** that integrates dynamic ML inference with scalable healthcare operational workflows. The platform features an **Automated Batch Processing Engine** for bulk diagnostic loads, a **Persistent SQLite Ledger** for longitudinal patient tracking, and an **XAI Attribution Matrix** to provide clinicians with full transparency into model-driven decision-making."
 
----
-
-### **Yeh README ab complete hai!**
-
-Ismein tumhari:
-
-1. **Visual Identity** (UI/UX)
-2. **Technical Math** (Sigmoid/Logit)
-3. **Clinical Utility** (SQLite/Batch Processing)
-4. **Model Architecture** (Stacking Ensemble)
 
